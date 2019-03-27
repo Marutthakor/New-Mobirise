@@ -1,0 +1,49 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+h6{
+    padding: 14px;
+}
+
+.buy {
+    width: 80%;
+
+    margin: 20px;
+    background-color:lemonchiffon;
+  
+}
+
+
+.specification {
+    width: 80%;
+  margin: 50px;
+    background-color: white;
+   }
+.speci1 {
+    background-color: white;
+    width: 20%;
+    display: inline-block;
+   }
+.content1 {
+    background-color: white;
+
+   
+     }
+.content2 {
+ 
+    background-color: white;
+}
+
+.ic{
+    position: absolute;
+   
+}
+.text{
+    color: sandybrown;
+}
